@@ -3,7 +3,7 @@
 ## Description
 This is a pizza website that enables customer to order pizza
 ## Live Link
-https://calebbii.github.io/Delani-studio/
+https://calebbii.github.io/Vannce-Inn-Pizza/home.html
 
 ## Features
 * Built with HTML, CSS, Bootstrap and JavaScript
@@ -28,5 +28,5 @@ Caleb Bii
 Email : biicaleb316@gmail.com
 
 ## License and Copyright
-[MIT Lisence](https://github.com/Calebbii/Delani-studio/blob/master/LICENSE) Copyright (c) 2021 Calebbii
+[MIT Lisence]() Copyright (c) 2021 Calebbii
 
