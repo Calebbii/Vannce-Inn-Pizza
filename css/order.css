@@ -1,0 +1,41 @@
+.logo {
+    border-radius: 100%;
+    margin-bottom: 1cm;
+}
+h1 {
+    color: chartreuse;
+}
+body {
+    background-color: #212121;
+}
+#placeOrder {
+    background-color: #212121;
+}
+#addToCart {
+    margin-left: 2.3cm;
+}
+.mb-3 {
+    color: aliceblue;
+    text-align: center;
+}
+button {
+    margin-top: 1cm;
+}
+.mb-3 button {
+    margin-top: 1cm;
+}
+/*footer*/
+footer {
+    text-align: center;
+    margin-top: 4cm;
+}
+.containerIcons {
+    width: 15cm;
+    margin-left: 10cm;
+}
+.col img {
+    border-radius: 100%;
+    margin-bottom: 1cm;
+}
+
+

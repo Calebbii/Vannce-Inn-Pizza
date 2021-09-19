@@ -1,0 +1,40 @@
+.logo {
+    border-radius: 100%;
+    margin-bottom: 1cm;
+}
+#overall {
+    background-color: #212121;
+    color: white;
+}
+.pizzaSize h3, .pizzaTopping h3, .pizzaCrust h3 {
+    font-size: 25px;
+    font-family: fantasy;
+}
+
+#main {
+    margin-top: 2cm;
+}
+#main .col  {
+    text-align: center;
+    margin-top: 1cm;
+}
+.col img {
+    border-radius: 100%;
+    margin-bottom: 1cm;
+}
+h1 {
+    text-align: center;
+    color: #D9E650;
+}
+h3 {
+    color: #F8FF75;
+}
+footer {
+    text-align: center;
+    margin-top: 4cm;
+}
+.containerIcons {
+    width: 15cm;
+    margin-left: 10cm;
+
+}

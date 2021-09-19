@@ -1,0 +1,39 @@
+.logo {
+    border-radius: 100%;
+    margin-bottom: 1cm;
+}
+h1 {
+    color: #F8FF75;
+    text-align: center;
+    padding: 1cm;
+}
+body {
+    background-color: #363636;
+}
+#contactUs {
+    text-align: center;
+}
+#email, #textarea {
+    width: 16cm;
+    margin-left: 9cm;
+}
+::placeholder {
+    color: grey;
+}
+.row {
+    width: 18cm;
+    margin-left: 5.8cm;
+}
+/*footer*/
+footer {
+    text-align: center;
+    margin-top: 4cm;
+}
+.containerIcons {
+    width: 6cm;
+    margin-left: 2cm;
+}
+.col img {
+    border-radius: 100%;
+    margin-bottom: 1cm;
+}

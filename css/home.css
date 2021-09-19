@@ -1,0 +1,39 @@
+/*Header*/
+.logo {
+    border-radius: 100%;
+    margin-bottom: 1cm;
+}
+#home {
+    background-color: black;
+}
+#container {
+    margin-top: 2cm;
+    padding: 1cm 1cm 1cm 0cm;
+    text-align: center;
+}
+h1 {
+    color: #D9E650;
+    margin-left: 1cm;
+    font-size: 100px;
+}
+body {
+     background-image: url(https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f98cbc2af157b759b3a6272%2FPanera-pizza%2F960x0.jpg%3Ffit%3Dscale);
+     background-size: cover;
+     opacity: 0.7;
+}
+h2 {
+    color: #F8FF75;
+    padding-top: 2cm;
+}
+footer {
+    text-align: center;
+    margin-top: 4cm;
+}
+.containerIcons {
+    width: 15cm;
+    margin-left: 10cm;
+}
+.col img {
+    border-radius: 100%;
+    margin-bottom: 1cm;
+}
