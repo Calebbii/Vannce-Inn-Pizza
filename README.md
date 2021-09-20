@@ -1,7 +1,7 @@
 # Vannce-Inn-Pizza
 
 ## Description
-This is a pizza website that enables customer to order for pizza.The clients have an option of selecting whether the pizza is to be delivered to them.
+This is a pizza website that enables customer to order for pizza.The clients have an option of selecting whether the pizza is to be delivered to them
 ## Live Link
 https://calebbii.github.io/Vannce-Inn-Pizza/home.html
 
